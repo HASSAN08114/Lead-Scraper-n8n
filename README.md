@@ -45,7 +45,7 @@ Lead-Scraper-n8n/
 │── README.md # Documentation
 
 
----<img width="1920" height="1080" alt="2025-08-26" src="https://github.com/user-attachments/assets/8a5f1a62-ed01-46d6-85de-4fe4bae3603d" />
+--- <img width="1480" height="571" alt="2025-08-26" src="https://github.com/user-attachments/assets/e43e769c-2a95-4f71-b109-4b4d574f57b3" />
 
 
 ## 🚀 How to Use  
@@ -53,7 +53,7 @@ Lead-Scraper-n8n/
 1. Install [n8n](https://n8n.io) locally or on a server.  
 2. Open the n8n editor UI.  
 3. Import the workflow from `workflows/email_verifier.json`.  
-4. Add your **API credentials** (email verification service, Google Sheets, database, etc.).  
+4. Add your **API credentials** (email verification service, Google Sheets, database, etc.). 
 5. Run the workflow and watch leads get cleaned automatically.  
 
 ---
