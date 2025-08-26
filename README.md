@@ -45,7 +45,8 @@ Lead-Scraper-n8n/
 │── README.md # Documentation
 
 
----
+---<img width="1920" height="1080" alt="2025-08-26" src="https://github.com/user-attachments/assets/8a5f1a62-ed01-46d6-85de-4fe4bae3603d" />
+
 
 ## 🚀 How to Use  
 
